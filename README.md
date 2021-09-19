@@ -2,19 +2,24 @@
 
 TweetBoat is a twitter like application where you can do tweets, and follow people around the world.
 
-![](src/assests/images/tweetboat.png)
+![](src/assets/images/tweetboat.png)
 
 ## Product Features:
 
 1. Signup
+![](src/assets/images/register.png)
 
 2. Login/Logout
+![](src/assets/images/login.png)
 
 3. Post a status update
+![](src/assets/images/tweet.png)
 
 4. Follow other users
+![](src/assets/images/follow.png)
 
 5. View a feed of the status updates of the users you are following
+![](src/assets/images/feed.png)
 
 ## Requirements
 
