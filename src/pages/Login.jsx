@@ -9,8 +9,8 @@ import { toast } from "react-toastify";
 
 const Login = () => {
 
-    const [email, setEmail] = useState('mayankkestwal8@gmail.com');
-    const [password, setPassword] = useState('Kestmk@6');
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
     const [redirect, setRedirect] = useState(false);
 
     const handleSubmit = (e) => {
